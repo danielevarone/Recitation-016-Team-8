@@ -1,6 +1,6 @@
 # Recitation-016-Team-8
-Project Team Members:
-Keith
+Project Team Member:
+Keith Bliss
 
 Daniel Evarone  username: danielevarone <br/>
 Keith Bliss     username: keithbliss <br/>
