@@ -1,6 +1,7 @@
 # Recitation-016-Team-8
 
-Project Team Members: Andrew Logue
+Project Team Members: 
+Andrew Logue
 
 Daniel Evarone  username: danielevarone <br/>
 Keith Bliss     username: keithbliss <br/>
