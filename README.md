@@ -1,5 +1,5 @@
 # Recitation-016-Team-8
-Project Team Members: 
+Project Team Members: Andrew Logue
 Andrew Logue
 
 Daniel Evarone  username: danielevarone <br/>
