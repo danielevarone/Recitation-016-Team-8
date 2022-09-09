@@ -1,5 +1,6 @@
 # Recitation-016-Team-8
-Dummy commit here.
+Project Team Members: Andrew Logue
+Andrew Logue
 
 Daniel Evarone  username: danielevarone <br/>
 Keith Bliss     username: keithbliss <br/>
@@ -9,3 +10,5 @@ Joey Weber      username: wiwe4856 <br/>
 Team 8, here's where we did the "Make some edits on the main branch (ONE PERSON)" part of the lab, don't worry :) 
 
 Adding in even more changes to main.
+
+Here is where Keith is making a node in his pull review.
