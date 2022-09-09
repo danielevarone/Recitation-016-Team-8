@@ -1,8 +1,14 @@
+Daniel-Branch
+ Recitation-016-Team-8
+Project Team Member:
+Daniel Evarone
+
 # Recitation-016-Team-8
 Project Team Members:
 This is Keith.
 Project Team Members: Andrew Logue
 Andrew Logue
+main
 
 Daniel Evarone  username: danielevarone <br/>
 Keith Bliss     username: keithbliss <br/>
@@ -15,4 +21,9 @@ Team 8, here's where we did the "Make some edits on the main branch (ONE PERSON)
 
 Adding in even more changes to main.
 
+Daniel-Branch
+This is a line describing the project file.
+Another line.
+
 Here is where Keith is making a node in his pull review.
+main
