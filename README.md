@@ -7,3 +7,5 @@ Keith Bliss     username: keithbliss <br/>
 Andrew Logue    username: Andrew-Logue <br/>
 Joey Weber      username: wiwe4856 <br/>
 
+Yo Dawg Im making changes to the Thing I'm reviewing things are weird
+Im describing my project, idk
