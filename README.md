@@ -1,5 +1,4 @@
 # Recitation-016-Team-8
-
 Project Team Members: 
 Andrew Logue
 
